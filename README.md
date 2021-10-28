@@ -26,15 +26,18 @@ Here are some ideas to get you started:
 
 ![Fabric](https://img.shields.io/badge/hyperledger-%232F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![BTC](https://img.shields.io/badge/Bitcoin-%23F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### I'm Using
 
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6?&style=for-the-badge&logo=windows&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000?&style=for-the-badge&logo=jetbrains&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?&style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Oneplus](https://img.shields.io/badge/onsplus-%23F5010C?&style=for-the-badge&logo=oneplus&logoColor=white)
 
