@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 Mainly for blockchain development
 - 🌱 Learning back-end Development
+- 💪 Trying to get stronger
 
 <img src="https://github-readme-stats.vercel.app/api?username=An1ex&show_icons=true&count_private=true">
 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### What am i using
+### I'm Using
 
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6?&style=for-the-badge&logo=windows&logoColor=white)
