@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍💻 Mainly for blockchain development
-- 🌱 Learning back-end Development
+- 🌱 Learning back-end development
 - 💪 Trying to get stronger
 
 <img src="https://github-readme-stats.vercel.app/api?username=An1ex&show_icons=true&count_private=true">
