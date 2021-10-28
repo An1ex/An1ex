@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### I'm Using
 
+![AMD](https://img.shields.io/badge/amd-%23ED1C24?&style=for-the-badge&logo=amd&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6?&style=for-the-badge&logo=windows&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000?&style=for-the-badge&logo=jetbrains&logoColor=white)
