@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Mainly for Blockchain Development
 - 💻️ Focus on Distributed Network
 - 🌱 Learning Back-end Development
+- 📱 Learning Android Development
 - 💪 Trying to get stronger!
 
 <img src="https://github-readme-stats.vercel.app/api?username=An1ex&show_icons=true&count_private=true">
